@@ -1,2 +1,2 @@
-# class__VR
-To solve glitch in existing project
+# ClassVR
+Class vr is edtech platform (codame project)
